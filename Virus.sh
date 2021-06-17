@@ -27,12 +27,12 @@ echo -e '\e[93m
 X |......XX%,.@      \######/%;\;;;;, /      @#%,XX......| X
 X |.....X  @#%,.@     |######%%;;;;,.|     @#%,.@  X.....| X'
 echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
- X# \.X        @#%,.@   SYED v2.1      @#%,.@        
+ X# \.X        @#%,.@ SYED RAHIM v2.1  @#%,.@        
                 @#%,.@              @#%,.@          
                   @#%,.@          @#%,.@            
                      @#%,.@      @#%,.@             
                        @#%.,@  @#%,.@              
-                        SYED RAHIM
+                        ALoNe HaCKeR
 '
 echo " " 
 echo -e "$red                       ▶Coded by$grn SYEDRRAHIM$red◀$rset"
@@ -59,7 +59,7 @@ echo -e '\e[93m
 X |......XX%,.@      \######/%;\;;;;, /      @#%,XX......| X
 X |.....X  @#%,.@     |######%%;;;;,.|     @#%,.@  X.....| X'
 echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
- X# \.X        @#%,.@   SYED v2.2      @#%,.@        
+ X# \.X        @#%,.@   SYED RAHIM v2.2      @#%,.@        
                 @#%,.@              @#%,.@          
                   @#%,.@          @#%,.@            
                      @#%,.@      @#%,.@             
@@ -112,12 +112,12 @@ banner
 menu
 elif [ $optnz = "6" ];
 then
-am start -a android.intent.action.VIEW -d https://noob-hackers.github.io/noobspage > /dev/null 2>&1
+am start -a android.intent.action.VIEW -d https://www.facebook.com/syedRahim88899> /dev/null 2>&1
 banner
 menu
 elif [ $optnz = "7" ];
 then
-am start -a android.intent.action.VIEW -d https://bitly.com/nhwhatschat > /dev/null 2>&1
+am start -a android.intent.action.VIEW -d https://www.facebook.com/syedRahim88899 2>&1
 banner
 menu
 elif [ $optnz = "8" ];
@@ -275,7 +275,7 @@ echo -en "\e[32mSELECT OPTION [\e[93my/\e[93mt/\e[32m\e[93mz\e[32m]: \e[0m "
 read p
 if [ "$p" = "y" ];
 then
-am start -a android.intent.action.VIEW -d https://noobhacktube.com 2>/dev/null
+am start -a android.intent.action.VIEW https://www.facebook.com/syedRahim88899 -d  2>/dev/null
 clear
 baner1
 menu
